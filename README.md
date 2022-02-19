@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mdMandoinfo</h1>
 <h3 align="center">A passionate Back-End & Front-End developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmMndoinfo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmMndoinfo" /> </p> <p align="left"> <a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmMndoinfo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmMndoinfo" />   <a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdMandoinfo" alt="mdMandoinfo" /></a> </p>
