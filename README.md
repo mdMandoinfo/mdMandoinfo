@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdMandoinfo](https://github.com/mdMandoinfo)
 
-- mailbox How to reach me Twitter/Discord or open a Github issue here [https://github.com/mdMandoinfo](https://github.com/mdMandoinfo)
+- 📫 How to reach me Twitter/Discord or open a Github issue here [https://github.com/mdMandoinfo](https://github.com/mdMandoinfo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
