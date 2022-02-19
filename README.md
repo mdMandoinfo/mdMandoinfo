@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmMndoinfo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmMndoinfo" />   <a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
 
+https://github-profile-trophy.vercel.app/?username=mdMandoinfo
 
-
-<p align="left"> <a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
 
 - 🔭 I’m currently working on [We3Learn](https://github.com/We3learn)
 
