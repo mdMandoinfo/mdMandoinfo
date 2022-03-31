@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently love to learning **EVERYTHING!**.
 
-- 🤝 I’m looking for help with an We3Learn web application project (contributors welcome, contact me!) [We3Learn(https://github.com/We3learn)
+- 🤝 I’m looking for help with an We3Learn web application project [We3Learn](https://github.com/We3learn)
 
 - 👨‍💻 All my projects are available [Here.](https://github.com/mdMandoinfo?tab=repositories)
 
