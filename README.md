@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmandoinfo" alt="mdmandoinfo" /></a> </p>
 
 
-- 🔭 I’m currently working on & founder [We3Learn](https://github.com/We3learn)
+- 🔭 I’m currently working on [We3Learn.](https://github.com/We3learn) 
 
-- 🌱 I’m currently love to learning **EVERYTHING!**.
+- 🌱 I’m currently love to learning **Everything!**.
 
 - 🤝 I’m looking for help with an We3Learn web application project [We3Learn](https://github.com/We3learn)
 
 - 👨‍💻 All my projects are available [Here.](https://github.com/mdMandoinfo?tab=repositories)
 
-- 📫 How to reach me Twitter/Discord or open a Github issue here [https://github.com/mdMandoinfo](https://github.com/mdMandoinfo)
+- 📫 How to reach me Twitter/Discord or open a Github issue [Here.](https://github.com/mdMandoinfo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
