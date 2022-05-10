@@ -30,9 +30,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br>
   <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows"> <br> 
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
