@@ -22,6 +22,7 @@
 <h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
 
 <p align=center>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=php&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -42,7 +43,7 @@
 </p>
 
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
-<p align="left"><a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
+<p align="center"><a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
 
 <p align=center>
   <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
