@@ -1,35 +1,53 @@
-<h1 align="center">Hi 👋, I'm mdMandoinfo</h1>
-A passionate Back-End developer And the Founder of @We3Learn
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"> 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmMndoinfo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmMndoinfo" />   <a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmandoinfo" alt="mdmandoinfo" /></a> </p>
-
-- 🔭 I’m currently working on [@We3Learn.](https://github.com/We3learn) 
-
-- 🌱 I’m currently love to learning **Everything!**.
-
-- 🤝 I’m looking for help with an We3Learn web application project [We3Learn](https://github.com/We3learn)
-
-- 👨‍💻 All my projects are available [Here.](https://github.com/mdMandoinfo?tab=repositories)
-
-- 📫 How to reach me Twitter/Discord or open a Github issue [Here.](https://github.com/mdMandoinfo)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mdmandoinfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmandoinfo" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cS8ArkZjfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cS8ArkZjfe" height="30" width="40" /></a>
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdMandoinfo&theme=onedark"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎!</h2>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mdMandoinfo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdMandoinfo" /></a></p><br><br><br>
+<p align=center>
+  𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗, <br> 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝙾𝚏 @We3Learn<br>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdMandoinfo&show_icons=true&locale=en&layout=compact" alt="mdMandoinfo" /></p>
+<p align=center>
+  𝙸'𝚟𝚎 𝙱𝚎𝚎𝚗 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚒𝚗𝚌𝚎 𝚅𝚎𝚛𝚢 𝙴𝚊𝚛𝚕𝚢 𝚂𝚝𝚊𝚐𝚎 𝙾𝚏 𝙼𝚢 𝙻𝚒𝚏𝚎, 𝙼𝚘𝚜𝚝𝚕𝚢 𝙵𝚘𝚛 𝙷𝚊𝚌𝚔𝚒𝚗𝚐-𝙲𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝚁𝚎𝚕𝚊𝚝𝚎𝚍 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚙𝚎𝚗-𝚂𝚘𝚞𝚛𝚌𝚎,
+  𝚁𝚎𝚕𝚊𝚝𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝙱𝚞𝚒𝚕𝚍𝚎𝚍 𝙼𝚘𝚍𝚜, 𝙲𝚞𝚜𝚝𝚘𝚖 𝚁𝙾𝙼𝚜. <br>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdMandoinfo&show_icons=true&locale=en" alt="mdMandoinfo" /></p>..
+<p align=center>
+  ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 236+ 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ! ⚡
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdMandoinfo&" alt="mdMandoinfo" /></p>
+<h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
 
+<p align=center>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br>
+  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows">
+  <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android"> <br>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <imgs rc="https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/-Travis%20CI-dfd896?style=for-the-badge&logo=Travis%20CI&logoColor=92232c">
+  <img src="https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=CircleCI">
+  <img src="https://img.shields.io/badge/-Drone%20CI-212121?style=for-the-badge&logo=Drone"> <br>
+  <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br>
+</p>
+
+<h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmMndoinfo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmMndoinfo" />   <a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
+
+<p align=center>
+  <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
+</p>
+
+<p align=center>
+  <img src="https://metrics.lecoq.io/mdMandoinfo?template=classic">
+</p>
