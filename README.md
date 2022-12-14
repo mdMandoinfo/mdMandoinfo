@@ -5,10 +5,13 @@
 </p>
 
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎!</h2>
-
 <p align=center>
-  𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗, <br> 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝙾𝚏 @We3Learn<br>
+  My name is MD, I'm a full-stack PHP, Developer, and I love to building platforms that help people do great things. Founder of @We3learn
 </p>
+
+<h3><p align=center>
+  𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗
+</p></h3>
 
 <p align=center>
   𝙸'𝚟𝚎 𝙱𝚎𝚎𝚗 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚒𝚗𝚌𝚎 𝚅𝚎𝚛𝚢 𝙴𝚊𝚛𝚕𝚢 𝚂𝚝𝚊𝚐𝚎 𝙾𝚏 𝙼𝚢 𝙻𝚒𝚏𝚎, 𝙼𝚘𝚜𝚝𝚕𝚢 𝙵𝚘𝚛 𝙷𝚊𝚌𝚔𝚒𝚗𝚐-𝙲𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝚁𝚎𝚕𝚊𝚝𝚎𝚍 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚙𝚎𝚗-𝚂𝚘𝚞𝚛𝚌𝚎,
@@ -22,20 +25,22 @@
 <h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
 
 <p align=center>
+  <img src="https://img.shields.io/badge/-Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=red"> <br>
   <img src="https://img.shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br>
-  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows"> <br> 
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <br> 
+  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows">
 </p>
 
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
-<p align="center"><a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo" /></a> </p>
+<p align="center"><a href="https://twitter.com/mdMandoinfo" target="blank"><img src="https://img.shields.io/twitter/follow/mdMandoinfo" alt="mdMandoinfo"/></a> </p>
 
 <p align=center>
   <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
