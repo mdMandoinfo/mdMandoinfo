@@ -37,7 +37,7 @@
 </p>
 
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
-<p align="center"><a href="https://twitter.com/@mdMandoinfo" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/@mdMandoinfo?label=Follow%20mdMandoinfo&style=social"></a> </p>
+<p align="center"><a href="https://twitter.com/@mdMandoinfo" target="blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20mdMandoinfo&style=social&url=https%3A%2F%2Ftwitter.com%2FmdMandoinfo"></a> </p>
 
 <p align=center>
   <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
