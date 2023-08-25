@@ -42,7 +42,3 @@
 <p align=center>
   <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
 </p>
-
-<p align=center>
-  <img src="https://metrics.lecoq.io/mdMandoinfo?template=classic">
-</p>
