@@ -6,7 +6,7 @@
 
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎!</h2>
 <p align=center>
-  My name is MD, I'm a full-stack PHP, Developer, and I love to building platforms that help people do great things. Founder of @We3learn
+My name is Mohammed, People call me MD I'm a full-stack PHP Developer, I love building platforms that help people do great things. Founder of @MC4Host
 </p>
 
 <h2 align="center">PHP 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗</h2>
