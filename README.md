@@ -1,3 +1,4 @@
+
 <h2 align="center">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🏆</h2>
 
 <p align="center">
@@ -6,13 +7,12 @@
 
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎!</h1>
 <p align="center">
-  My name is Mohammed, people call me MD. I'm a full-stack PHP Developer, I love building platforms that help people do great things. Founder of @MC4Host.
+Hey there! I'm mdMandoinfo{Mohamed}, a Software Engineer & Backend Developer specializing in PHP & Laravel. I have a strong passion for building secure, scalable, and efficient web applications, focusing on backend architecture, database optimization, and server management.
 </p>
 
-<h2 align="center">PHP 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗</h2>
+<h2 align="center">Software Engineering & Backend Developer & 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗</h2>
 <p align="center">
-  𝙸'𝚟𝚎 𝙱𝚎𝚎𝚗 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚒𝚗𝚌𝚎 𝚅𝚎𝚛𝚢 𝙴𝚊𝚛𝚕𝚢 𝚂𝚝𝚊𝚐𝚎𝚜 𝙾𝚏 𝙼𝚢 𝙻𝚒𝚏𝚎, 𝙼𝚘𝚜𝚝𝚕𝚢 𝙵𝚘𝚛 𝙷𝚊𝚌𝚔𝚒𝚗𝚐-𝙲𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝚁𝚎𝚕𝚊𝚝𝚎𝚍 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚙𝚎𝚗-𝚂𝚘𝚞𝚛𝚌𝚎,
-  𝚁𝚎𝚕𝚊𝚝𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙼𝚘𝚍𝚜, 𝙲𝚞𝚜𝚝𝚘𝚖 𝚁𝙾𝙼𝚜.
+I have a strong passion for building secure, scalable, and efficient web applications, focusing on backend architecture, database optimization, and server management. I focus on delivering simple, effective, and results-driven solutions, ensuring that your website or application runs flawlessly with minimal effort on your end.
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=red"> <br>
   <img src="https://img.shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -41,4 +40,15 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
+</p>
+
+<h2 align="center">⚡ Let's Connect! 🤝 ⚡</h2>
+<p align="center">
+Feel free to reach out if you want to collaborate on exciting projects, discuss new tech trends, or just have a chat about development. I'm always up for learning and sharing knowledge.
+</p>
+<p align="center">
+Let's work together to bring your ideas to life and achieve your business goals!
+</p>
+<p align="center">
+Check out my repositories to see my work or contact me for freelance opportunities. You can also visit my <a href="https://mdmando.info/#contact" target="_blank">website</a> for more information.
 </p>
