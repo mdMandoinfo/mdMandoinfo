@@ -1,43 +1,70 @@
-<h2 align="center">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🏆</h2>
+<h2 align="center">👋 Mohamed Hussein</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdMandoinfo&theme=gruvbox&row=1&column=7" alt="GitHub Trophies"/>
+  <b>Software Engineer | Backend Engineer</b><br>
+  PHP • Laravel • Go • REST APIs • MySQL • PostgreSQL
+</p>
+
+<p align="center">
+  <a href="https://github.com/mdMandoinfo">
+    <img src="https://img.shields.io/github/followers/mdMandoinfo?style=flat&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/mdMandoinfo">
+    <img src="https://img.shields.io/github/stars/mdMandoinfo?style=flat&logo=github" alt="GitHub Stars">
+  </a>
 </p>
 
 ---
 
-<h2 align="center">• Backend Developer{$PHP->Laravel} •</h2>
+<h2 align="center">💻 About Me</h2>
 
 <p align="center">
-I'm <b>Mohamed</b> (mdMandoinfo), a <b>Backend Developer</b> specialized in <b>PHP & Laravel</b>.<br>
-I focus on building secure, scalable, and high-performance web applications with strong backend architecture, optimized databases, and reliable server management.
+I'm <b>Mohamed</b> (<b>mdMandoinfo</b>), a <b>Software Engineer / Backend Engineer</b> focused on building reliable web applications and backend systems.
+<br><br>
+I work with <b>PHP/Laravel</b> and <b>Go</b>, developing REST APIs, backend services, database-driven applications, and maintainable software architectures.
+<br><br>
+I also have experience with database optimization, legacy code refactoring, authentication, server management, and delivering software solutions for freelance clients.
 </p>
 
 ---
 
-<h2 align="center">🛠️ 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 🛠️</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 ---
 
-<h2 align="center">• Connect •</h2>
-
 <p align="center">
-I’m open to collaborations, freelance opportunities, and knowledge sharing.<br>
-Feel free to reach out if you’re interested in working together or discussing new tech ideas.
-</p>
-
-<p align="center">
-  🌍 <a href="https://mdmando.info/#contact" target="_blank">Website</a> • 
-  🐦 <a href="https://twitter.com/mdMandoinfo" target="_blank">Twitter</a> • 
-  💼 <a href="https://linkedin.com/in/mdmandoinfo" target="_blank">LinkedIn</a>
+  <a href="https://mdmando.info/#contact">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mdmandoinfo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/mdMandoinfo">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/message/RLMO3MQSSEJSO1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
