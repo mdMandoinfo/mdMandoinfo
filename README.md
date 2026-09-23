@@ -1,17 +1,8 @@
-<h2 align="center">👋 Mohamed Hussein</h2>
+<h2 align="center">👋 Mohammed Hussein</h2>
 
 <p align="center">
   <b>Software Engineer | Backend Engineer</b><br>
   PHP • Laravel • Go • REST APIs • MySQL • PostgreSQL
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdMandoinfo">
-    <img src="https://img.shields.io/github/followers/mdMandoinfo?style=flat&logo=github" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/mdMandoinfo">
-    <img src="https://img.shields.io/github/stars/mdMandoinfo?style=flat&logo=github" alt="GitHub Stars">
-  </a>
 </p>
 
 ---
@@ -19,7 +10,7 @@
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-I'm <b>Mohamed</b> (<b>mdMandoinfo</b>), a <b>Software Engineer / Backend Engineer</b> focused on building reliable web applications and backend systems.
+I'm <b>Mohammed</b> (<b>mdMandoinfo</b>), a <b>Software Engineer / Backend Engineer</b> focused on building reliable web applications and backend systems.
 <br><br>
 I work with <b>PHP/Laravel</b> and <b>Go</b>, developing REST APIs, backend services, database-driven applications, and maintainable software architectures.
 <br><br>
